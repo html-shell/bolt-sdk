@@ -1,0 +1,7 @@
+Obj-*
+*.pyc
+Debug/**/extensions
+Release/**/extensions
+/mozilla-build/python/
+_virtualenv
+mozinfo.json
