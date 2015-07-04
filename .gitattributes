@@ -41,7 +41,7 @@
 *.dbproj text eol=crlf merge=union
 
 # Win32 Script files
-*.bat text eol=crlf 
+*.bat text eol=crlf
 
 # These settings are for any web project
 # These files are text and should be normalized (Convert crlf => lf)
@@ -125,9 +125,12 @@
 *.xpi binary
 *.whl binary
 
+/bolt-extensions/**/* binary
+/deps/**/* binary
 /mozbuild/**/* text eol=lf
 /mozilla-build/**/* binary
 /Release/**/* binary
 /Debug/**/* binary
 /python-packages/**/* binary
 /python-packages-mail/**/* binary
+/xulrunner/**/* binary

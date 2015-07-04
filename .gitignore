@@ -2,6 +2,11 @@ Obj-*
 *.pyc
 Debug/**/extensions
 Release/**/extensions
-/mozilla-build/python/
 _virtualenv
 mozinfo.json
+/bolt-extensions/extensions/exchangeews@kingsoft.com
+/tests
+/deps/locales
+/mozbuild/testing
+Debug
+Release
