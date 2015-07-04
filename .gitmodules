@@ -1,0 +1,9 @@
+[submodule "mozbuild"]
+	path = mozbuild
+	url = ../mozbuild
+[submodule "mozilla-build"]
+	path = mozilla-build
+	url = ../mozilla-build
+[submodule "thunderbird"]
+	path = thunderbird
+	url = ../thunderbird
