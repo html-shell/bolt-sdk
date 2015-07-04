@@ -7,6 +7,5 @@ mozinfo.json
 /bolt-extensions/extensions/exchangeews@kingsoft.com
 /tests
 /deps/locales
-/mozbuild/testing
 Debug
 Release
