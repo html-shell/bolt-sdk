@@ -9,3 +9,4 @@ mozinfo.json
 /deps/locales
 Debug
 Release
+/profiles
