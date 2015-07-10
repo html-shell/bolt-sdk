@@ -1,12 +1,9 @@
-Obj-*
 *.pyc
-Debug/**/extensions
-Release/**/extensions
 _virtualenv
 mozinfo.json
-/bolt-extensions/extensions/exchangeews@kingsoft.com
 /tests
 /deps/locales
-Debug
-Release
+/Debug
+/Release
 /profiles
+/xulrunner
