@@ -1,0 +1,9 @@
+FINAL_TARGET_FILES += [
+  'bin/CBUpdateself.exe',
+  'bin/EmailUpdate.exe',
+  'bin/Extral_Provider.db',
+  'bin/NetUtil.dll',
+  'bin/XDictTool.exe',
+  'runtime/msvcp120.dll',
+  'runtime/msvcr120.dll',
+]
