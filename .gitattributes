@@ -134,3 +134,4 @@
 /python-packages/**/* binary
 /python-packages-mail/**/* binary
 /xulrunner/**/* binary
+/npm/**/* binary
