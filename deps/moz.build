@@ -3,6 +3,7 @@ FINAL_TARGET_FILES += [
   'bin/EmailUpdate.exe',
   'bin/Extral_Provider.db',
   'bin/NetUtil.dll',
+  'bin/OnlineInstall.exe',
   'bin/updateself.exe',
   'runtime/msvcp120.dll',
   'runtime/msvcr120.dll',
