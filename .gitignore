@@ -8,3 +8,6 @@ mozinfo.json
 /Release+Debug
 /profiles
 /xulrunner
+/BoltPackage/bin
+/BoltPackage/7z
+/BoltPackage/output
