@@ -5,6 +5,9 @@ FINAL_TARGET_FILES += [
   'bin/NetUtil.dll',
   'bin/OnlineInstall.exe',
   'bin/updateself.exe',
+  'bin/nsHttpRequest.dll',
+  'bin/nsStatistics.dll',
+  'bin/nsUtils.dll',
   'runtime/msvcp120.dll',
   'runtime/msvcr120.dll',
 ]
