@@ -7,6 +7,7 @@ FINAL_TARGET_FILES += [
   'bin/nsStatistics.dll',
   'bin/nsUtils.dll',
   'bin/OnlineInstall.exe',
+  'bin/Update.exe',
   'bin/updateself.exe',
   'runtime/msvcp120.dll',
   'runtime/msvcr120.dll',
