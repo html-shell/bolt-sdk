@@ -1,23 +1,6 @@
 FINAL_TARGET_FILES += [
-  'bin/EmailTool.exe',
-  'bin/EmailUpdate.exe',
   'bin/Extral_Provider.db',
-  'bin/NetUtil.dll',
-  'bin/nsHttpRequest.dll',
-  'bin/nsStatistics.dll',
-  'bin/nsUtils.dll',
-  'bin/OnlineInstall.exe',
   'bin/Update.exe',
-  'bin/updateself.exe',
   'runtime/msvcp120.dll',
   'runtime/msvcr120.dll',
-]
-
-FINAL_TARGET_FILES.skin.common += [
-  'bin/skin/common/close_btn2.bmp',
-  'bin/skin/common/headLine.bmp',
-]
-
-FINAL_TARGET_FILES.skin.Controls += [
-  'bin/skin/Controls/notifyIconRight.bmp',
 ]
