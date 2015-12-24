@@ -5,3 +5,9 @@ FINAL_TARGET_FILES += [
   'runtime/msvcp120.dll',
   'runtime/msvcr120.dll',
 ]
+
+FINAL_TARGET_FILES.Language += [
+  'bin/Language/English.ini',
+  'bin/Language/Korean.ini',
+  'bin/Language/SimpChinese.ini',
+]
