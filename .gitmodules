@@ -1,6 +1,8 @@
 [submodule "mozbuild"]
 	path = mozbuild
 	url = ../mozbuild
+	branch = stable_version
+
 [submodule "mozilla-build"]
 	path = mozilla-build
 	url = ../mozilla-build
