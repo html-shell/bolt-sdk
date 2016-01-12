@@ -1,6 +1,8 @@
 FINAL_TARGET_FILES += [
   'bin/DataMigration.exe',
   'bin/Extral_Provider.db',
+  'bin/tray_x86-msvc.dll',
+  'bin/tray_x86_64-msvc.dll',
   'bin/Update.exe',
   'runtime/msvcp120.dll',
   'runtime/msvcr120.dll',
